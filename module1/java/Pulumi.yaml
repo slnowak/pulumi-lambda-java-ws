@@ -1,0 +1,3 @@
+name: iac-workshop-lambda
+runtime: java
+description: A minimal Java Pulumi program with Maven builds
